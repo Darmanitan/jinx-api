@@ -1,0 +1,12 @@
+html{
+    font-size: 18px
+}
+p {
+    font-family: 'UnifontMedium';
+    font-weight: normal;
+    font-style: normal;
+ } 
+body{
+    background-color: #000;
+    color: whitesmoke;
+}
